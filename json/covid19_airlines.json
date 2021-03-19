@@ -51,7 +51,7 @@
             {
               "loess": "rate",
               "on": "day",
-              "bandwidth": 0.2,
+              "bandwidth": 0.05,
               "groupby": [
                 "airline"
               ]
@@ -69,7 +69,7 @@
               }
             },
             "opacity": {
-              "value": 0.3
+              "value": 0
             },
             "tooltip": [
               {
@@ -169,7 +169,7 @@
             {
               "loess": "rate",
               "on": "day",
-              "bandwidth": 0.2,
+              "bandwidth": 0.05,
               "groupby": [
                 "airline"
               ]
@@ -187,7 +187,7 @@
               }
             },
             "opacity": {
-              "value": 0.3
+              "value": 0
             },
             "tooltip": [
               {
@@ -289,7 +289,7 @@
             {
               "loess": "rate",
               "on": "day",
-              "bandwidth": 0.2,
+              "bandwidth": 0.05,
               "groupby": [
                 "airline"
               ]
@@ -307,7 +307,7 @@
               }
             },
             "opacity": {
-              "value": 0.3
+              "value": 0
             },
             "tooltip": [
               {
@@ -413,7 +413,7 @@
             {
               "loess": "rate",
               "on": "day",
-              "bandwidth": 0.2,
+              "bandwidth": 0.05,
               "groupby": [
                 "airline"
               ]
@@ -431,7 +431,7 @@
               }
             },
             "opacity": {
-              "value": 0.3
+              "value": 0
             },
             "tooltip": [
               {
@@ -543,7 +543,7 @@
               }
             },
             "opacity": {
-              "value": 0.3
+              "value": 0
             },
             "tooltip": [
               {
