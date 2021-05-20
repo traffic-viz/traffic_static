@@ -500,7 +500,7 @@
     }
   ],
   "data": {
-    "name": "data-f8b15d6ce3646650ec5f92794bc0849c"
+    "name": "data-62ca87de5ed5e53174436511ab2255f4"
   },
   "resolve": {
     "scale": {
@@ -509,7 +509,7 @@
   },
   "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json",
   "datasets": {
-    "data-f8b15d6ce3646650ec5f92794bc0849c": [
+    "data-62ca87de5ed5e53174436511ab2255f4": [
       {
         "day": "2020-01-01T00:00:00+00:00",
         "airport": "LFPG",
@@ -3513,7 +3513,25 @@
       {
         "day": "2021-05-16T00:00:00+00:00",
         "airport": "LFPG",
-        "count": 217,
+        "count": 235,
+        "city": "Paris"
+      },
+      {
+        "day": "2021-05-17T00:00:00+00:00",
+        "airport": "LFPG",
+        "count": 206,
+        "city": "Paris"
+      },
+      {
+        "day": "2021-05-18T00:00:00+00:00",
+        "airport": "LFPG",
+        "count": 198,
+        "city": "Paris"
+      },
+      {
+        "day": "2021-05-19T00:00:00+00:00",
+        "airport": "LFPG",
+        "count": 202,
         "city": "Paris"
       },
       {
@@ -6519,7 +6537,25 @@
       {
         "day": "2021-05-16T00:00:00+00:00",
         "airport": "EGLL",
-        "count": 163,
+        "count": 172,
+        "city": "London"
+      },
+      {
+        "day": "2021-05-17T00:00:00+00:00",
+        "airport": "EGLL",
+        "count": 183,
+        "city": "London"
+      },
+      {
+        "day": "2021-05-18T00:00:00+00:00",
+        "airport": "EGLL",
+        "count": 156,
+        "city": "London"
+      },
+      {
+        "day": "2021-05-19T00:00:00+00:00",
+        "airport": "EGLL",
+        "count": 160,
         "city": "London"
       },
       {
@@ -9525,7 +9561,25 @@
       {
         "day": "2021-05-16T00:00:00+00:00",
         "airport": "EHAM",
-        "count": 269,
+        "count": 274,
+        "city": "Amsterdam"
+      },
+      {
+        "day": "2021-05-17T00:00:00+00:00",
+        "airport": "EHAM",
+        "count": 242,
+        "city": "Amsterdam"
+      },
+      {
+        "day": "2021-05-18T00:00:00+00:00",
+        "airport": "EHAM",
+        "count": 203,
+        "city": "Amsterdam"
+      },
+      {
+        "day": "2021-05-19T00:00:00+00:00",
+        "airport": "EHAM",
+        "count": 214,
         "city": "Amsterdam"
       },
       {
@@ -12531,7 +12585,25 @@
       {
         "day": "2021-05-16T00:00:00+00:00",
         "airport": "EDDF",
-        "count": 256,
+        "count": 275,
+        "city": "Frankfurt am Main"
+      },
+      {
+        "day": "2021-05-17T00:00:00+00:00",
+        "airport": "EDDF",
+        "count": 237,
+        "city": "Frankfurt am Main"
+      },
+      {
+        "day": "2021-05-18T00:00:00+00:00",
+        "airport": "EDDF",
+        "count": 207,
+        "city": "Frankfurt am Main"
+      },
+      {
+        "day": "2021-05-19T00:00:00+00:00",
+        "airport": "EDDF",
+        "count": 215,
         "city": "Frankfurt am Main"
       },
       {
@@ -15537,7 +15609,25 @@
       {
         "day": "2021-05-16T00:00:00+00:00",
         "airport": "LEMD",
-        "count": 212,
+        "count": 220,
+        "city": "Madrid"
+      },
+      {
+        "day": "2021-05-17T00:00:00+00:00",
+        "airport": "LEMD",
+        "count": 205,
+        "city": "Madrid"
+      },
+      {
+        "day": "2021-05-18T00:00:00+00:00",
+        "airport": "LEMD",
+        "count": 182,
+        "city": "Madrid"
+      },
+      {
+        "day": "2021-05-19T00:00:00+00:00",
+        "airport": "LEMD",
+        "count": 185,
         "city": "Madrid"
       },
       {
@@ -18543,7 +18633,25 @@
       {
         "day": "2021-05-16T00:00:00+00:00",
         "airport": "LIRF",
-        "count": 120,
+        "count": 126,
+        "city": "Rome"
+      },
+      {
+        "day": "2021-05-17T00:00:00+00:00",
+        "airport": "LIRF",
+        "count": 111,
+        "city": "Rome"
+      },
+      {
+        "day": "2021-05-18T00:00:00+00:00",
+        "airport": "LIRF",
+        "count": 86,
+        "city": "Rome"
+      },
+      {
+        "day": "2021-05-19T00:00:00+00:00",
+        "airport": "LIRF",
+        "count": 98,
         "city": "Rome"
       },
       {
@@ -21549,7 +21657,25 @@
       {
         "day": "2021-05-16T00:00:00+00:00",
         "airport": "LSZH",
-        "count": 137,
+        "count": 143,
+        "city": "Zurich"
+      },
+      {
+        "day": "2021-05-17T00:00:00+00:00",
+        "airport": "LSZH",
+        "count": 109,
+        "city": "Zurich"
+      },
+      {
+        "day": "2021-05-18T00:00:00+00:00",
+        "airport": "LSZH",
+        "count": 84,
+        "city": "Zurich"
+      },
+      {
+        "day": "2021-05-19T00:00:00+00:00",
+        "airport": "LSZH",
+        "count": 83,
         "city": "Zurich"
       },
       {
@@ -24555,7 +24681,25 @@
       {
         "day": "2021-05-16T00:00:00+00:00",
         "airport": "UUEE",
-        "count": 273,
+        "count": 332,
+        "city": "Moscow"
+      },
+      {
+        "day": "2021-05-17T00:00:00+00:00",
+        "airport": "UUEE",
+        "count": 291,
+        "city": "Moscow"
+      },
+      {
+        "day": "2021-05-18T00:00:00+00:00",
+        "airport": "UUEE",
+        "count": 267,
+        "city": "Moscow"
+      },
+      {
+        "day": "2021-05-19T00:00:00+00:00",
+        "airport": "UUEE",
+        "count": 228,
         "city": "Moscow"
       },
       {
@@ -27561,7 +27705,25 @@
       {
         "day": "2021-05-16T00:00:00+00:00",
         "airport": "VHHH",
-        "count": 157,
+        "count": 162,
+        "city": "Islands, New Territories"
+      },
+      {
+        "day": "2021-05-17T00:00:00+00:00",
+        "airport": "VHHH",
+        "count": 171,
+        "city": "Islands, New Territories"
+      },
+      {
+        "day": "2021-05-18T00:00:00+00:00",
+        "airport": "VHHH",
+        "count": 191,
+        "city": "Islands, New Territories"
+      },
+      {
+        "day": "2021-05-19T00:00:00+00:00",
+        "airport": "VHHH",
+        "count": 174,
         "city": "Islands, New Territories"
       },
       {
@@ -30567,7 +30729,25 @@
       {
         "day": "2021-05-16T00:00:00+00:00",
         "airport": "RJBB",
-        "count": 59,
+        "count": 62,
+        "city": "Izumisano"
+      },
+      {
+        "day": "2021-05-17T00:00:00+00:00",
+        "airport": "RJBB",
+        "count": 41,
+        "city": "Izumisano"
+      },
+      {
+        "day": "2021-05-18T00:00:00+00:00",
+        "airport": "RJBB",
+        "count": 63,
+        "city": "Izumisano"
+      },
+      {
+        "day": "2021-05-19T00:00:00+00:00",
+        "airport": "RJBB",
+        "count": 57,
         "city": "Izumisano"
       },
       {
@@ -33573,7 +33753,25 @@
       {
         "day": "2021-05-16T00:00:00+00:00",
         "airport": "RJTT",
-        "count": 288,
+        "count": 309,
+        "city": "Ota, Tokyo"
+      },
+      {
+        "day": "2021-05-17T00:00:00+00:00",
+        "airport": "RJTT",
+        "count": 284,
+        "city": "Ota, Tokyo"
+      },
+      {
+        "day": "2021-05-18T00:00:00+00:00",
+        "airport": "RJTT",
+        "count": 277,
+        "city": "Ota, Tokyo"
+      },
+      {
+        "day": "2021-05-19T00:00:00+00:00",
+        "airport": "RJTT",
+        "count": 260,
         "city": "Ota, Tokyo"
       },
       {
@@ -36583,6 +36781,24 @@
         "city": "Seoul"
       },
       {
+        "day": "2021-05-17T00:00:00+00:00",
+        "airport": "RKSI",
+        "count": 0,
+        "city": "Seoul"
+      },
+      {
+        "day": "2021-05-18T00:00:00+00:00",
+        "airport": "RKSI",
+        "count": 0,
+        "city": "Seoul"
+      },
+      {
+        "day": "2021-05-19T00:00:00+00:00",
+        "airport": "RKSI",
+        "count": 0,
+        "city": "Seoul"
+      },
+      {
         "day": "2020-01-01T00:00:00+00:00",
         "airport": "RCTP",
         "count": 343,
@@ -39585,7 +39801,25 @@
       {
         "day": "2021-05-16T00:00:00+00:00",
         "airport": "RCTP",
-        "count": 113,
+        "count": 116,
+        "city": "Taipei"
+      },
+      {
+        "day": "2021-05-17T00:00:00+00:00",
+        "airport": "RCTP",
+        "count": 88,
+        "city": "Taipei"
+      },
+      {
+        "day": "2021-05-18T00:00:00+00:00",
+        "airport": "RCTP",
+        "count": 103,
+        "city": "Taipei"
+      },
+      {
+        "day": "2021-05-19T00:00:00+00:00",
+        "airport": "RCTP",
+        "count": 126,
         "city": "Taipei"
       },
       {
@@ -42591,7 +42825,25 @@
       {
         "day": "2021-05-16T00:00:00+00:00",
         "airport": "RPLL",
-        "count": 44,
+        "count": 52,
+        "city": "Manila"
+      },
+      {
+        "day": "2021-05-17T00:00:00+00:00",
+        "airport": "RPLL",
+        "count": 38,
+        "city": "Manila"
+      },
+      {
+        "day": "2021-05-18T00:00:00+00:00",
+        "airport": "RPLL",
+        "count": 61,
+        "city": "Manila"
+      },
+      {
+        "day": "2021-05-19T00:00:00+00:00",
+        "airport": "RPLL",
+        "count": 48,
         "city": "Manila"
       },
       {
@@ -45597,7 +45849,25 @@
       {
         "day": "2021-05-16T00:00:00+00:00",
         "airport": "YSSY",
-        "count": 321,
+        "count": 338,
+        "city": "Sydney"
+      },
+      {
+        "day": "2021-05-17T00:00:00+00:00",
+        "airport": "YSSY",
+        "count": 347,
+        "city": "Sydney"
+      },
+      {
+        "day": "2021-05-18T00:00:00+00:00",
+        "airport": "YSSY",
+        "count": 312,
+        "city": "Sydney"
+      },
+      {
+        "day": "2021-05-19T00:00:00+00:00",
+        "airport": "YSSY",
+        "count": 310,
         "city": "Sydney"
       },
       {
@@ -48603,7 +48873,25 @@
       {
         "day": "2021-05-16T00:00:00+00:00",
         "airport": "YMML",
-        "count": 233,
+        "count": 244,
+        "city": "Melbourne"
+      },
+      {
+        "day": "2021-05-17T00:00:00+00:00",
+        "airport": "YMML",
+        "count": 248,
+        "city": "Melbourne"
+      },
+      {
+        "day": "2021-05-18T00:00:00+00:00",
+        "airport": "YMML",
+        "count": 247,
+        "city": "Melbourne"
+      },
+      {
+        "day": "2021-05-19T00:00:00+00:00",
+        "airport": "YMML",
+        "count": 239,
         "city": "Melbourne"
       },
       {
@@ -51609,7 +51897,25 @@
       {
         "day": "2021-05-16T00:00:00+00:00",
         "airport": "OMDB",
-        "count": 207,
+        "count": 221,
+        "city": "Dubai"
+      },
+      {
+        "day": "2021-05-17T00:00:00+00:00",
+        "airport": "OMDB",
+        "count": 183,
+        "city": "Dubai"
+      },
+      {
+        "day": "2021-05-18T00:00:00+00:00",
+        "airport": "OMDB",
+        "count": 190,
+        "city": "Dubai"
+      },
+      {
+        "day": "2021-05-19T00:00:00+00:00",
+        "airport": "OMDB",
+        "count": 206,
         "city": "Dubai"
       },
       {
@@ -54615,7 +54921,25 @@
       {
         "day": "2021-05-16T00:00:00+00:00",
         "airport": "VABB",
-        "count": 95,
+        "count": 99,
+        "city": "Mumbai"
+      },
+      {
+        "day": "2021-05-17T00:00:00+00:00",
+        "airport": "VABB",
+        "count": 33,
+        "city": "Mumbai"
+      },
+      {
+        "day": "2021-05-18T00:00:00+00:00",
+        "airport": "VABB",
+        "count": 93,
+        "city": "Mumbai"
+      },
+      {
+        "day": "2021-05-19T00:00:00+00:00",
+        "airport": "VABB",
+        "count": 82,
         "city": "Mumbai"
       },
       {
@@ -57621,7 +57945,25 @@
       {
         "day": "2021-05-16T00:00:00+00:00",
         "airport": "VIDP",
-        "count": 231,
+        "count": 241,
+        "city": "New Delhi"
+      },
+      {
+        "day": "2021-05-17T00:00:00+00:00",
+        "airport": "VIDP",
+        "count": 184,
+        "city": "New Delhi"
+      },
+      {
+        "day": "2021-05-18T00:00:00+00:00",
+        "airport": "VIDP",
+        "count": 198,
+        "city": "New Delhi"
+      },
+      {
+        "day": "2021-05-19T00:00:00+00:00",
+        "airport": "VIDP",
+        "count": 156,
         "city": "New Delhi"
       },
       {
@@ -60627,7 +60969,25 @@
       {
         "day": "2021-05-16T00:00:00+00:00",
         "airport": "WSSS",
-        "count": 105,
+        "count": 109,
+        "city": "Singapore"
+      },
+      {
+        "day": "2021-05-17T00:00:00+00:00",
+        "airport": "WSSS",
+        "count": 90,
+        "city": "Singapore"
+      },
+      {
+        "day": "2021-05-18T00:00:00+00:00",
+        "airport": "WSSS",
+        "count": 109,
+        "city": "Singapore"
+      },
+      {
+        "day": "2021-05-19T00:00:00+00:00",
+        "airport": "WSSS",
+        "count": 116,
         "city": "Singapore"
       },
       {
@@ -63633,7 +63993,25 @@
       {
         "day": "2021-05-16T00:00:00+00:00",
         "airport": "CYYZ",
-        "count": 104,
+        "count": 110,
+        "city": "Toronto"
+      },
+      {
+        "day": "2021-05-17T00:00:00+00:00",
+        "airport": "CYYZ",
+        "count": 99,
+        "city": "Toronto"
+      },
+      {
+        "day": "2021-05-18T00:00:00+00:00",
+        "airport": "CYYZ",
+        "count": 115,
+        "city": "Toronto"
+      },
+      {
+        "day": "2021-05-19T00:00:00+00:00",
+        "airport": "CYYZ",
+        "count": 107,
         "city": "Toronto"
       },
       {
@@ -66639,7 +67017,25 @@
       {
         "day": "2021-05-16T00:00:00+00:00",
         "airport": "KSFO",
-        "count": 286,
+        "count": 302,
+        "city": "San Francisco"
+      },
+      {
+        "day": "2021-05-17T00:00:00+00:00",
+        "airport": "KSFO",
+        "count": 320,
+        "city": "San Francisco"
+      },
+      {
+        "day": "2021-05-18T00:00:00+00:00",
+        "airport": "KSFO",
+        "count": 292,
+        "city": "San Francisco"
+      },
+      {
+        "day": "2021-05-19T00:00:00+00:00",
+        "airport": "KSFO",
+        "count": 266,
         "city": "San Francisco"
       },
       {
@@ -69645,7 +70041,25 @@
       {
         "day": "2021-05-16T00:00:00+00:00",
         "airport": "KLAX",
-        "count": 568,
+        "count": 612,
+        "city": "Los Angeles"
+      },
+      {
+        "day": "2021-05-17T00:00:00+00:00",
+        "airport": "KLAX",
+        "count": 671,
+        "city": "Los Angeles"
+      },
+      {
+        "day": "2021-05-18T00:00:00+00:00",
+        "airport": "KLAX",
+        "count": 646,
+        "city": "Los Angeles"
+      },
+      {
+        "day": "2021-05-19T00:00:00+00:00",
+        "airport": "KLAX",
+        "count": 588,
         "city": "Los Angeles"
       },
       {
@@ -72651,7 +73065,25 @@
       {
         "day": "2021-05-16T00:00:00+00:00",
         "airport": "KATL",
-        "count": 924,
+        "count": 952,
+        "city": "Atlanta"
+      },
+      {
+        "day": "2021-05-17T00:00:00+00:00",
+        "airport": "KATL",
+        "count": 1020,
+        "city": "Atlanta"
+      },
+      {
+        "day": "2021-05-18T00:00:00+00:00",
+        "airport": "KATL",
+        "count": 977,
+        "city": "Atlanta"
+      },
+      {
+        "day": "2021-05-19T00:00:00+00:00",
+        "airport": "KATL",
+        "count": 933,
         "city": "Atlanta"
       },
       {
@@ -75657,7 +76089,25 @@
       {
         "day": "2021-05-16T00:00:00+00:00",
         "airport": "KJFK",
-        "count": 383,
+        "count": 402,
+        "city": "New York"
+      },
+      {
+        "day": "2021-05-17T00:00:00+00:00",
+        "airport": "KJFK",
+        "count": 401,
+        "city": "New York"
+      },
+      {
+        "day": "2021-05-18T00:00:00+00:00",
+        "airport": "KJFK",
+        "count": 368,
+        "city": "New York"
+      },
+      {
+        "day": "2021-05-19T00:00:00+00:00",
+        "airport": "KJFK",
+        "count": 350,
         "city": "New York"
       },
       {
@@ -78663,7 +79113,25 @@
       {
         "day": "2021-05-16T00:00:00+00:00",
         "airport": "SBGR",
-        "count": 139,
+        "count": 143,
+        "city": "São Paulo"
+      },
+      {
+        "day": "2021-05-17T00:00:00+00:00",
+        "airport": "SBGR",
+        "count": 156,
+        "city": "São Paulo"
+      },
+      {
+        "day": "2021-05-18T00:00:00+00:00",
+        "airport": "SBGR",
+        "count": 171,
+        "city": "São Paulo"
+      },
+      {
+        "day": "2021-05-19T00:00:00+00:00",
+        "airport": "SBGR",
+        "count": 159,
         "city": "São Paulo"
       }
     ]
